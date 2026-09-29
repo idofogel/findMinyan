@@ -1,0 +1,1 @@
+delete all the old minyans. after an hour of its creation, if it is not deleted
