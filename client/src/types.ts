@@ -1,5 +1,4 @@
-export type PrayerType = "שחרית" | "מנחה" | "ערבית";
-
+export type PrayerType = "SHACHARIT" | "MINCHA" | "ARVIT";
 export interface Prayer {
   id: string;
   lat: number;
